@@ -1,10 +1,10 @@
 ---
-title: Nginx笔记 
+title: Nginx笔记
 slug: NginxNote 
 author: wzc 
 date: 2022-07-24 
 categories:
-    - Study Note 
+    - 学习笔记 
 tags:
     - Nginx 
 image: img/2022/07/colorful_river.jpg 

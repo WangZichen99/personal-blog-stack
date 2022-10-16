@@ -4,7 +4,7 @@ slug: SpringMVCNote
 author: wzc
 date: 2022-03-12
 categories: 
-    - Study Note
+    - 学习笔记
 tags:
     - Spring
     - Spring MVC

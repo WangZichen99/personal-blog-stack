@@ -4,7 +4,7 @@ slug: SpringNote
 author: wzc
 date: 2022-03-07
 categories: 
-    - Study Note
+    - 学习笔记
 tags:
     - Spring
 image: img/2022/03/trees_road.jpg

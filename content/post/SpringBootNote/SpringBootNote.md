@@ -1,10 +1,10 @@
 ---
 title: SpringBoot笔记
-sult: SpringBootNote
+slug: SpringBootNote
 author: wzc
 date: 2022-07-09T11:18:24+08:00
 categories: 
-    - Study Note
+    - 学习笔记
 tags: 
     - Spring
     - Spring MVC

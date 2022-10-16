@@ -4,7 +4,7 @@ slug: MybatisNote
 author: wzc
 date: 2022-03-07T18:24:52+08:00
 categories: 
-    - Study Note
+    - 学习笔记
 tags: 
     - MyBatis
 image: img/2022/03/lake.jpg

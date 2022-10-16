@@ -1,6 +1,6 @@
 ---
 title: {{ replace .Name "-" " " | title }}
-sult: 
+slug: 
 author: wzc
 date: {{ .Date }}
 categories: 

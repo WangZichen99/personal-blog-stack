@@ -1,10 +1,10 @@
 ---
 title: Mysql高级优化
-slug: mysqlNote
+slug: MysqlNote
 author: wzc
 date: 2022-03-12
 categories: 
-    - Study Note
+    - 学习笔记
 tags: 
     - MySQL
 image: img/2022/03/field.jpg
