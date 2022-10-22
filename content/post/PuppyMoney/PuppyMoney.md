@@ -1,5 +1,5 @@
 ---
-title: PuppyMoney
+title: 小狗钱钱读书笔记
 slug: PuppyMoney
 author: wzc
 date: 2022-10-16T10:22:34+08:00
