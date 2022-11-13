@@ -22,49 +22,49 @@ mermaid: true
 
 <table>
     <tr>
-        <th colspan="2" width="500">演进过程</th>
+        <th colspan="2" style="text-align: center">演进过程</th>
     </tr>
-    <tr align="center">
-        <td>爬行动物</td>
-        <td>本能脑</td>
+    <tr>
+        <td style="text-align: center">爬行动物</td>
+        <td style="text-align: center">本能脑</td>
     </tr>
-    <tr align="center">
-        <td>哺乳动物</td>
-        <td>情绪脑</td>
+    <tr>
+        <td style="text-align: center">哺乳动物</td>
+        <td style="text-align: center">情绪脑</td>
     </tr>
-    <tr align="center">
-        <td>人类</td>
-        <td>理智脑</td>
+    <tr>
+        <td style="text-align: center">人类</td>
+        <td style="text-align: center">理智脑</td>
     </tr>
 </table>
 <br>
 <table>
     <tr><th colspan="8">三层大脑对比</th></tr>
-    <tr align="center">
-        <td>本能脑</td>
-        <td>低级</td>
-        <td>强大</td>
-        <td>婴儿时期趋于完善（2岁）</td>
-        <td rowspan="2">神经元细胞数量多，距离心脏近</td>
-        <td rowspan="2">运行速度快</td>
-        <td rowspan="2">控制大脑能力强</td>
-        <td rowspan="2">更接近原始社会->生存->及时享乐、避难趋易、急于求成</td>
+    <tr>
+        <td style="text-align: center;vertical-align: middle;">本能脑</td>
+        <td style="text-align: center;vertical-align: middle;">低级</td>
+        <td style="text-align: center;vertical-align: middle;">强大</td>
+        <td style="text-align: center;vertical-align: middle;">婴儿时期趋于完善（2岁）</td>
+        <td rowspan="2" style="text-align: center;vertical-align: middle;">神经元细胞数量多，距离心脏近</td>
+        <td rowspan="2" style="text-align: center;vertical-align: middle;">运行速度快</td>
+        <td rowspan="2" style="text-align: center;vertical-align: middle;">控制大脑能力强</td>
+        <td rowspan="2" style="text-align: center;vertical-align: middle;">更接近原始社会->生存->及时享乐、避难趋易、急于求成</td>
     </tr>
-    <tr align="center">
-        <td>情绪脑</td>
-        <td>低级</td>
-        <td>次强</td>
-        <td>青春期早期（12岁）</td>
+    <tr>
+        <td style="text-align: center;vertical-align: middle;">情绪脑</td>
+        <td style="text-align: center;vertical-align: middle;">低级</td>
+        <td style="text-align: center;vertical-align: middle;">次强</td>
+        <td style="text-align: center;vertical-align: middle;">青春期早期（12岁）</td>
     </tr>
-    <tr align="center">
-        <td>理智脑</td>
-        <td>高级</td>
-        <td>弱小</td>
-        <td>成年早期（22岁）</td>
-        <td>数量少，距离远</td>
-        <td>速度慢且耗能</td>
-        <td>控制大脑能力弱</td>
-        <td>更接近现代社会</td>
+    <tr>
+        <td style="text-align: center;vertical-align: middle;">理智脑</td>
+        <td style="text-align: center;vertical-align: middle;">高级</td>
+        <td style="text-align: center;vertical-align: middle;">弱小</td>
+        <td style="text-align: center;vertical-align: middle;">成年早期（22岁）</td>
+        <td style="text-align: center;vertical-align: middle;">数量少，距离远</td>
+        <td style="text-align: center;vertical-align: middle;">速度慢且耗能</td>
+        <td style="text-align: center;vertical-align: middle;">控制大脑能力弱</td>
+        <td style="text-align: center;vertical-align: middle;">更接近现代社会</td>
     </tr>
 </table>
 <br>
@@ -102,6 +102,7 @@ graph TD
 A(想同时做很多事) --> B(急于求成) --> E(天性)
 C(想不怎么努力就看到效果) --> D(避难趋易) --> E(天性)
 </div>
+
 ### 第三节 耐心者得天下
 
 宏观上：
@@ -128,7 +129,7 @@ C(想不怎么努力就看到效果) --> D(避难趋易) --> E(天性)
 
 ## 第二章 潜意识——生命留给我们的彩蛋
 
-### 第一节 生是一场消除模糊的比赛
+### 第一节 人生是一场消除模糊的比赛
 
 意识分层：潜意识负责生理系统，意识负责社会系统
 
