@@ -6,7 +6,7 @@ date: 2022-10-15T15:48:50+08:00
 categories: 
     - 读书笔记
 tags: 
-    - 理财
+    - 投资理财
 image: img/2022/10/autumn_forest_mountain.jpg
 draft: false
 ---

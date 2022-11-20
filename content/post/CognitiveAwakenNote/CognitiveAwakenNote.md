@@ -67,7 +67,6 @@ mermaid: true
         <td style="text-align: center;vertical-align: middle;">更接近现代社会</td>
     </tr>
 </table>
-<br>
 
 结果
 - 明知读书重要，却转身掏出手机
@@ -121,7 +120,7 @@ C(想不怎么努力就看到效果) --> D(避难趋易) --> E(天性)
 2. 平台期
 ![img.png](../../img/2022/04/cognitive_awaken_note/img2.png)
 
-拥有耐性：
+拥有耐心：
 1. 接纳天性（缺乏耐心）
 2. 延迟满足（该有的享受一点也不会少，只不过不是现在，而是在完成该做的之后）
 3. 提升认知，看到事情的深层意义
